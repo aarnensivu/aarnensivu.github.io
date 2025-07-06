@@ -1,0 +1,48 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+html, body { min-height: 100% } 
+#button_1fbec4f5 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#316E3C;  }
+#button_1fbec4f5:hover { background-color:#065100;  }
+#button_1fbec4f5:hover span { color:#FFFFFF; }
+#button_56357dc7 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#316E3C;  }
+#button_56357dc7:hover { background-color:#065100;  }
+#button_56357dc7:hover span { color:#FFFFFF; }
+#button_426fe36 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#316E3C;  }
+#button_426fe36:hover { background-color:#065100;  }
+#button_426fe36:hover span { color:#FFFFFF; }
+#button_3205b59a { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#FF0000;  }
+#button_3205b59a:hover { background-color:#065100;  }
+#button_3205b59a:hover span { color:#FFFFFF; }
+#button_297d27c3 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#316E3C;  }
+#button_297d27c3:hover { background-color:#065100;  }
+#button_297d27c3:hover span { color:#FFFFFF; }
+#button_56e27b3b { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#316E3C;  }
+#button_56e27b3b:hover { background-color:#065100;  }
+#button_56e27b3b:hover span { color:#FFFFFF; }
+body { background-color:#086464; background: linear-gradient(to bottom, #F8B43C, #086464); background-repeat: no-repeat; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+.textstyle2 { font-size:44pt; font-family:'MS Sans Serif', Geneva, sans-serif; color:#3848BD; font-weight:bold;  }
+#text_6532fa0e { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle3 { text-align:left; }
+.textstyle4 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#3848BD;  }
+.textstyle5 { font-size:32pt; font-family:'MS Sans Serif', Geneva, sans-serif; color:#000000; font-weight:bold;  }
+#img_53797471 { vertical-align: bottom; position:relative; display: inline-block; width:27%; background:none; height:auto;  }
+#text_2a64b3ae { vertical-align: bottom; position:relative; display: inline-block; width:402px; height:91px; background:none;  }
+.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+#img_6058d15 { vertical-align: bottom; position:relative; display: inline-block; width:26%; background:none; height:auto;  }
+#text_4902854c { vertical-align: bottom; position:relative; display: inline-block; width:384px; height:91px; background:none;  }
+#text_3dbc5511 { vertical-align: bottom; position:relative; display: inline-block; width:219px; height:32px; background:none;  }
+#img_24e3eb05 { vertical-align: bottom; position:relative; display: inline-block; width:26%; background:none; height:auto;  }
+#text_5475a51b { vertical-align: bottom; position:relative; display: inline-block; width:384px; height:91px; background:none;  }
+#img_53fe67b0 { vertical-align: bottom; position:relative; display: inline-block; width:26%; background:none; height:auto;  }
+#text_12dee79e { vertical-align: bottom; position:relative; display: inline-block; width:384px; height:91px; background:none;  }
+#text_14de6854 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+#img_7fa5239b { vertical-align: bottom; position:relative; display: inline-block; width:26%; background:none; height:auto;  }
+#text_15f9c727 { vertical-align: bottom; position:relative; display: inline-block; width:384px; height:91px; background:none;  }
+#text_1ebebf5c { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+#img_431272da { vertical-align: bottom; position:relative; display: inline-block; width:26%; height:302px; background:none;  }
+#text_50c906c2 { vertical-align: bottom; position:relative; display: inline-block; width:384px; height:91px; background:none;  }
